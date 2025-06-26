@@ -84,3 +84,13 @@ Time Spent: 2 Hours
 Since the bulk of the big decisions were done I decided to polish up the little details. To start, my y axis got a second motor to evenly drive the gantry to keep it from racking
 ![image](https://github.com/user-attachments/assets/282adf70-31ef-4315-ac5f-40590ba8e9a2)
 
+Then, I created a bearing holder to keep the x leadscrew from being cantilvered over a 250mm long span. 
+![image](https://github.com/user-attachments/assets/6bb4047a-8219-49d0-87ee-21be1de13323)
+This is huge for rigidity.
+
+Finally, I got the y leadscrews into the CAD and made a part to attach them to the gantry. 
+![image](https://github.com/user-attachments/assets/275c4938-24a8-440a-86ca-c4b4c2d7c68d)
+
+There are still a lot of little details that I have to iron out, but this is looking good. 
+
+Time Spent: 4 Hours
