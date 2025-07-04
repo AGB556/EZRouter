@@ -79,7 +79,7 @@ This changed dropped my BOM by almost 50 dollars, but it is still going to be cl
 
 Time Spent: 2 Hours
 
-## **6/24/2024 Log 4: Starting the Polish**
+## **6/24/2025 Log 4: Starting the Polish**
 
 Since the bulk of the big decisions were done I decided to polish up the little details. To start, my y axis got a second motor to evenly drive the gantry to keep it from racking
 ![image](https://github.com/user-attachments/assets/282adf70-31ef-4315-ac5f-40590ba8e9a2)
@@ -92,5 +92,21 @@ Finally, I got the y leadscrews into the CAD and made a part to attach them to t
 ![image](https://github.com/user-attachments/assets/275c4938-24a8-440a-86ca-c4b4c2d7c68d)
 
 There are still a lot of little details that I have to iron out, but this is looking good. 
+
+Time Spent: 4 Hours
+
+## **7/3/2025-7/4/2025** Log 5: More Polish
+
+![image](https://github.com/user-attachments/assets/fb5d21b6-b03d-4480-8575-7e2936f7c24e)
+
+I spent some time tidying up some of the last parts of the router. To start, I set colors to make it easier to see as well as bringing this under the same family as my printer (Since I have plenty of that filament left over)
+
+![image](https://github.com/user-attachments/assets/d2ecf113-d0b0-4913-adb7-df62ed6be9ee)
+
+I also added in the electronics - the control board and the two different power supplies.
+
+![image](https://github.com/user-attachments/assets/87a4e291-9497-4828-a84f-c39e89a6d49e)
+
+Front support plates as well as these linear rail hardstops were added. Finally, I put in the spoilboard from which I will attach all of my raw material to.
 
 Time Spent: 4 Hours
